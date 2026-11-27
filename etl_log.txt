@@ -1,0 +1,7 @@
+2026-11-27-16:04:07.507093, ETL Pipeline Started
+2026-11-27-16:04:07.508024, Extract Phase Started
+2026-11-27-16:04:08.578221, Extract Phase Ended
+2026-11-27-16:04:08.578530, Transform Phase Started
+2026-11-27-16:04:08.994878, Transform Phase Ended
+2026-11-27-16:04:08.995159, Load Phase (parquet.gzip) Started
+2026-11-27-16:04:09.091460, Load Phase (parquet.gzip) Ended
